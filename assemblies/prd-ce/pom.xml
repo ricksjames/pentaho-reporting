@@ -515,6 +515,10 @@
       <artifactId>jaxb-impl</artifactId>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>jakarta.annotation</groupId>
+      <artifactId>jakarta.annotation-api</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
